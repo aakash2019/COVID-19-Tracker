@@ -1,0 +1,25 @@
+{
+  "short_name": "COvid-19 Tracker",
+  "name": "Covid-19 Tracker using React",
+  "icons": [
+    {
+      "src": "coronaimage.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "coronaimage.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "coronaimage.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
